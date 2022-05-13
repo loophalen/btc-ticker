@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import "./App.css";
 
 //async function calls the btcUrl - API
 //fetch returns a promise await waits for the promise to be returned
